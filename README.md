@@ -1,8 +1,7 @@
 # j-studios ecommerce website
 
-```python
-Author : Joshua Owusu Ankomah
-```
+
+# Author : Joshua Owusu Ankomah
 
 ```python
 
